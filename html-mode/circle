@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: Vaibhav PUjari <276vaibhav+github@gmail.com>
+# name: <circle />
+# key: circle
+# --
+<circle class="$1" cx="$2" cy="$3" r="$4" />

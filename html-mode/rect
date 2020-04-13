@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: Vaibhav PUjari <276vaibhav+github@gmail.com>
+# name: <rect />
+# key: rect                 
+# --
+<rect class="$1" x="$2" y="$3" width="$4" height="$5" />

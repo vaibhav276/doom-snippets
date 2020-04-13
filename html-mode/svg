@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# contributor: Vaibhav PUjari <276vaibhav+github@gmail.com>
+# name: <svg>...</svg>
+# key: svg                            
+# --
+<svg width="$1" height="$2" xmlns="http://www.w3.org/2000/svg">
+$3
+</svg>

@@ -1,0 +1,19 @@
+# -*- mode: snippet -*-
+# contributor: Vaibhav PUjari <276vaibhav+github@gmail.com>
+# name: <!doctype html>...</html>
+# key: html5        
+# --
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>${1:The title}</title>
+<style>
+  article, aside, details, figcaption, figure, footer, header,
+  hgroup, menu, nav, section { display: block; }
+</style>
+</head>
+<body>
+$2
+</body>
+</html>
